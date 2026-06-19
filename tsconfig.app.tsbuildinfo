@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/components/fileupload.tsx","./src/components/resumecard.tsx","./src/components/resumelist.tsx","./src/components/themetoggle.tsx","./src/context/themecontext.tsx","./src/context/themetoggle.tsx"],"version":"5.9.3"}
